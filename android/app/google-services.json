@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "801713113490",
+    "project_id": "quiz-app-200df",
+    "storage_bucket": "quiz-app-200df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801713113490:android:7990f165b87cbd5fe2594b",
+        "android_client_info": {
+          "package_name": "com.sharadb.quiz_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801713113490-qeg6hkrgp7fv8h02md6ai1a2qqf4v9sq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCru7A8RlAg_XxSixozU1bJq3hrCWsPDI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801713113490-qeg6hkrgp7fv8h02md6ai1a2qqf4v9sq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
